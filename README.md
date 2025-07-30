@@ -10,12 +10,12 @@ I'm passionate about technology and always eager to learn new skills.<br><br>
 - Problem-solving & competitive programming  
 
 🌱 **Currently Learning**  
-- React.js, Node.js, Express.js, MongoDB  
+- React.js, Node.js, Express.js, MongoDB , Java
 - Aptitude & Interview preparation  
 
 💞️ **Looking to Collaborate On**  
 - Full-stack projects  
-- Python projects  
+- Java projects  
 </h4>
 
 ###
